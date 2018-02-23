@@ -53,6 +53,14 @@
     <Compile Include="Migrations\201802230042027_Initialization.Designer.cs">
       <DependentUpon>201802230042027_Initialization.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201802231446013_Removed Length from GradYear.cs" />
+    <Compile Include="Migrations\201802231446013_Removed Length from GradYear.Designer.cs">
+      <DependentUpon>201802231446013_Removed Length from GradYear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201802231451260_Max 30 add to Name.cs" />
+    <Compile Include="Migrations\201802231451260_Max 30 add to Name.Designer.cs">
+      <DependentUpon>201802231451260_Max 30 add to Name.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -66,6 +74,12 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201802230042027_Initialization.resx">
       <DependentUpon>201802230042027_Initialization.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201802231446013_Removed Length from GradYear.resx">
+      <DependentUpon>201802231446013_Removed Length from GradYear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201802231451260_Max 30 add to Name.resx">
+      <DependentUpon>201802231451260_Max 30 add to Name.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

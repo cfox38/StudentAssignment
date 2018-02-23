@@ -12,6 +12,8 @@ namespace ProgramStudent
     {
         public int Id { get; set; }
 
+        [Required]
+        [MaxLength(30)]
         public string Name { get; set; }
         [Required]
         [MaxLength(30)]
@@ -20,7 +22,6 @@ namespace ProgramStudent
         [MaxLength(30)]
         public string College { get; set; }
         [Required]
-        [MaxLength(30)]
         public int GradYear { get; set; }
         [Required]
         public bool GradWithHonors { get; set; }

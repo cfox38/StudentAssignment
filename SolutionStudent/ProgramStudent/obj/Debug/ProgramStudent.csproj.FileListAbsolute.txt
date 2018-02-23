@@ -11,3 +11,5 @@ C:\repos\StudentAssignment\SolutionStudent\ProgramStudent\obj\Debug\ProgramStude
 C:\repos\StudentAssignment\SolutionStudent\ProgramStudent\obj\Debug\ProgramStudent.pdb
 C:\repos\StudentAssignment\SolutionStudent\ProgramStudent\obj\Debug\ProgramStudent.Migrations.Initialization.resources
 C:\repos\StudentAssignment\SolutionStudent\ProgramStudent\obj\Debug\ProgramStudent.csproj.GenerateResource.Cache
+C:\repos\StudentAssignment\SolutionStudent\ProgramStudent\obj\Debug\ProgramStudent.Migrations.RemovedLengthfromGradYear.resources
+C:\repos\StudentAssignment\SolutionStudent\ProgramStudent\obj\Debug\ProgramStudent.Migrations.Max30addtoName.resources

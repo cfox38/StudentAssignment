@@ -12,6 +12,6 @@ namespace ProgramStudent
         public StudentDbContext() : base()
         {
         }
-        public virtual DbSet<Student> Student { get; set; }
+        public virtual DbSet<Student> Students { get; set; }
     }
 }
