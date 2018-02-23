@@ -1,0 +1,13 @@
+C:\repos\StudentAssignment\SolutionStudent\ProgramStudent\obj\Debug\ProgramStudent.csprojResolveAssemblyReference.cache
+C:\repos\StudentAssignment\SolutionStudent\ProgramStudent\obj\Debug\ProgramStudent.csproj.CoreCompileInputs.cache
+C:\repos\StudentAssignment\SolutionStudent\ProgramStudent\bin\Debug\ProgramStudent.exe.config
+C:\repos\StudentAssignment\SolutionStudent\ProgramStudent\bin\Debug\ProgramStudent.exe
+C:\repos\StudentAssignment\SolutionStudent\ProgramStudent\bin\Debug\ProgramStudent.pdb
+C:\repos\StudentAssignment\SolutionStudent\ProgramStudent\bin\Debug\EntityFramework.dll
+C:\repos\StudentAssignment\SolutionStudent\ProgramStudent\bin\Debug\EntityFramework.SqlServer.dll
+C:\repos\StudentAssignment\SolutionStudent\ProgramStudent\bin\Debug\EntityFramework.xml
+C:\repos\StudentAssignment\SolutionStudent\ProgramStudent\bin\Debug\EntityFramework.SqlServer.xml
+C:\repos\StudentAssignment\SolutionStudent\ProgramStudent\obj\Debug\ProgramStudent.exe
+C:\repos\StudentAssignment\SolutionStudent\ProgramStudent\obj\Debug\ProgramStudent.pdb
+C:\repos\StudentAssignment\SolutionStudent\ProgramStudent\obj\Debug\ProgramStudent.Migrations.Initialization.resources
+C:\repos\StudentAssignment\SolutionStudent\ProgramStudent\obj\Debug\ProgramStudent.csproj.GenerateResource.Cache

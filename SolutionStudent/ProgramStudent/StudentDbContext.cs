@@ -3,10 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.Entity;
 
 namespace ProgramStudent
 {
-    class StudentDbContext
+    public class StudentDbContext : DbContext
     {
+        public StudentDbContext() : base()
+        {
+        }
+        public virtual DbSet<Student> Student { get; set; }
     }
 }
